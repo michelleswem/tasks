@@ -1,6 +1,6 @@
 
 ## A Simple project that allow users to add daily tasks.
-### preview link:
+### preview link:https://tasks-app1.netlify.app/
 
 # Getting Started with Create React App
 
